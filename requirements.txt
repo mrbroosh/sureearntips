@@ -98,7 +98,7 @@ pycparser==2.20
 Pygments==2.8.1
 pyOpenSSL==20.0.1
 pyparsing==2.4.7
-pypiwin32==223
+# pypiwin32==223
 pyrsistent==0.17.3
 PySocks==1.7.1
 pytest==6.2.4
